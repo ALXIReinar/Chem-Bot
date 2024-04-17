@@ -19,6 +19,7 @@ bot = Bot(TOKEN)
 ```
 ***before working with the bot, unzip the chem_elts zip file and paste the folder into the project!!!***
 
+[Zip file](https://vk.com/doc504729973_671485073?hash=UKUFQA0yBhjhnxU3Zpzv1ZKnpWEVkZFYIuozmRdh4do&dl=zTbICTkdt4XXQGMtm3Ev7czaqtCatJ0YNNWdZ4gAlyP)
 
 ## Required libraries ##
 
